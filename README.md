@@ -41,8 +41,6 @@ This software uses these dependencies:
 
 Java version required: 1.9+.
 
-StackOverflow tag is [cactoos](https://stackoverflow.com/questions/tagged/cactoos).
-
 **Support.**
 These are the [support principles](https://ashtonhogan.com/why-are-you-afraid-of-free-support.html) behind Tacinga.
 
